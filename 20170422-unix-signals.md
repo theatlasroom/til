@@ -11,4 +11,4 @@ When a signal is sent, the OS will interrupt the normal flow of execution of the
 * **SIGTERM**: request termination of the process, it CAN be caught and / or ignored unlike SIGKILL
 
 ## links
-* [Wiki](https://en.wikipedia.org/wiki/Unix_signal
+* [Wiki](https://en.wikipedia.org/wiki/Unix_signal)
