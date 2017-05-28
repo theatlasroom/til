@@ -8,3 +8,6 @@ https://www.tecmint.com/nginx-name-based-and-ip-based-virtual-hosts-server-block
   - define these
 * create a config boilerplate tool (without ssl)
 * using proxy pass for apps with a server
+
+## Links
+* [Server blocks](https://www.nginx.com/resources/wiki/start/topics/examples/server_blocks/)
